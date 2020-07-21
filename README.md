@@ -1,1 +1,1 @@
-# basic-aws-mentoring
+# basics-aws-mentoring
