@@ -1,4 +1,4 @@
-resource "aws_iam_policy" "policy" {
+resource "aws_iam_policy" "terraform_testbucket123" {
     name = "terraform_testbucket123"
     path = "/"
     description = "Read and write the bucket by Terraform"

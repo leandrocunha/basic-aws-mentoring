@@ -1,4 +1,4 @@
-resource "aws_iam_policy" "policy" {
+resource "aws_iam_policy" "terraform_ec2-access-by-id" {
     name = "terraform_ec2-access-by-id"
     path = "/"
     description = "Access EC2 by ID, created by Terraform"
